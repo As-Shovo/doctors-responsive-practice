@@ -1,0 +1,28 @@
+.banner{
+    background-image: url("../../fake-data//images/Banner&Background/banner.jpg");
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+}
+
+.banner-title{
+    color: #ffff;
+    font-weight: 900;
+    font-size: 48px;
+}
+
+.sub-title{
+    color: #ffff;
+    font-size: 38px;
+}
+
+.banner-btn{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding:  10px 20px;
+    margin-top: 20px 0;
+}
